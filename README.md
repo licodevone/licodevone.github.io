@@ -35,8 +35,9 @@
 <div>
 </hr>
   &nbsp;&nbsp;
-  ### 💻 Tecnologias & Ferramentas
-&nbsp;&nbsp;
+  
+### 💻 Tecnologias & Ferramentas
+
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
 ![PHPStorm](https://img.shields.io/badge/PHPSTORM-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
@@ -45,8 +46,8 @@
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-black?style=flat-square&logo=insomnia&logoColor=FF9900)
 ![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman)
 
-
 ![Java](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=java)
+![DOTNET](https://img.shields.io/badge/DOTNET-black?style=flat-square&logo=dotnet&logoColor=FF9900)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
@@ -68,5 +69,3 @@
 
 ![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=azure&logoColor=FF9900)
 ![DOCKER](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=FF9900)
-
-</div>
