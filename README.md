@@ -31,8 +31,9 @@
 </a>
 
 </div>
-
+</hr>
 <div>
+</hr>
   ### 💻 Tecnologias & Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
