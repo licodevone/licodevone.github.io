@@ -35,7 +35,7 @@
 <div>
 </hr>
   ### 💻 Tecnologias & Ferramentas
-
+</br>
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
 ![PHPStorm](https://img.shields.io/badge/PHPSTORM-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
