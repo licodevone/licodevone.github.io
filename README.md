@@ -31,7 +31,9 @@
 </a>
 
 </div>
-### 💻 Tecnologias & Ferramentas
+
+<div>
+  ### 💻 Tecnologias & Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
@@ -64,3 +66,5 @@
 
 ![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=azure&logoColor=FF9900)
 ![DOCKER](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=FF9900)
+
+</div>
