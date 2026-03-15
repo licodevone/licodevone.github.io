@@ -24,7 +24,7 @@
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=licodev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
-<br>
+&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ?sub_confirmation=1">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCxoLMPzu5P2pQi_H1VcWXuQ?style=social"  alt="https://www.youtube.com/channel/UCxoLMPzu5P2pQi_H1VcWXuQ?sub_confirmation=1"/>
@@ -34,8 +34,9 @@
 </hr>
 <div>
 </hr>
+  &nbsp;&nbsp;
   ### 💻 Tecnologias & Ferramentas
-</br>
+&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
 ![PHPStorm](https://img.shields.io/badge/PHPSTORM-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
@@ -44,8 +45,8 @@
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-black?style=flat-square&logo=insomnia&logoColor=FF9900)
 ![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman)
 
-![Csharp](https://img.shields.io/badge/CSHARP-black?style=flat-square&logo=csharp)
-![DOTNET](https://img.shields.io/badge/DOTNET-black?style=flat-square&logo=dotnet&logoColor=FF9900)
+
+![Java](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
