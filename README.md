@@ -62,5 +62,5 @@
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
 
-![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=azure&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=aws&logoColor=FF9900)
 ![DOCKER](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=FF9900)
