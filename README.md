@@ -36,7 +36,7 @@
 </hr>
   &nbsp;&nbsp;
   
-### 💻 Tecnologias & Ferramentas
+### 💻 Technologies and Tools
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
@@ -64,3 +64,11 @@
 
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=aws&logoColor=FF9900)
 ![DOCKER](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=FF9900)
+
+&nbsp;&nbsp;
+
+<div> 
+  <a href="https://www.instagram.com/licodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:lepinheiro100.ads1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/licodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
